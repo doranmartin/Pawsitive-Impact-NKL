@@ -1,4 +1,4 @@
-# Group Formation & Sponsor
+# Group Formation & Sponsor (8/27/2024)
 
 ## Group:
 
