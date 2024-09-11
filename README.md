@@ -2,6 +2,6 @@
 
 ## Team members:
 Kaylyn McGehee <br>
-Jay Chandiramani
-Logan Combs
-Doran Martin
+Jay Chandiramani <br>
+Logan Combs <br>
+Doran Martin <br>
