@@ -1,2 +1,7 @@
-# KJL
-Group Work for Prof. Finkbine's Class
+# Pawsitive Impact: NKL
+
+##Team members:
+Kaylyn McGehee
+Jay Chandiramani
+Logan Combs
+Doran Martin
