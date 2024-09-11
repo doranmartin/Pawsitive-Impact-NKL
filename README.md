@@ -1,7 +1,7 @@
 # Pawsitive Impact: NKL
 
 ## Team members:
-Kaylyn McGehee
+Kaylyn McGehee <br>
 Jay Chandiramani
 Logan Combs
 Doran Martin
