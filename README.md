@@ -1,7 +1,7 @@
 # Pawsitive Impact: NKL
 
 ## Project Description:
-
+Integrating a CRM system to the existing inventory system.
 
 
 ## Team members:
